@@ -3023,6 +3023,7 @@
       "553581": "ru-uralsib",
       "553584": "ru-uralsib",
       "553690": "ru-rosbank",
+      "553691": "ru-tinkoff",
       "553909": "ru-rosbank",
       "553964": "ru-rosbank",
       "554279": "ru-psb",
